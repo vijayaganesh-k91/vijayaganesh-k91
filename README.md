@@ -44,6 +44,4 @@
   <h2>📝 Contributions & Achievements</h2>
   <ul>
     <li>🚀 Open-source contributor for various AI projects</li>
-    <li>🏆 Winner of [Hackathon/Contest Name]</li>
-    <li>👩‍🏫 Speaker at [Event Name]</li>
   </ul>
