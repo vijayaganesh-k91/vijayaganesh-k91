@@ -1,7 +1,7 @@
 
 
   <h1>🌟 Welcome to My GitHub Profile!</h1>
-  <p>🚀 <strong>Full-Stack Developer | AI Enthusiast | Problem Solver</strong></p>
+  <p>🚀 <strong>Backend Developer | AI Enthusiast | Problem Solver</strong></p>
   <p>🔧 Skilled in <strong>.NET</strong>, <strong>Python</strong>, and <strong>Artificial Intelligence (AI)</strong></p>
 
   <h2>💼 About Me</h2>
